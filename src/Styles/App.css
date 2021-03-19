@@ -1,0 +1,16 @@
+table,td,th {
+    border: solid 1px;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+table{
+    width:800px;
+}
+.list-and-detail{
+        display: flex;
+        justify-content:space-between;
+        margin-left:300px;
+}
+.list-container {
+    margin:auto;
+}
